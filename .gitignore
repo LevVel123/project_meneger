@@ -1,2 +1,5 @@
 ### tests ###
 tests/
+
+###database###
+src/biesnes_app/databases/database.db
