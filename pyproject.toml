@@ -4,11 +4,11 @@ authors = [{name = "Lev", email = "levdobriy2012@mail.ru"}]
 version = "1.0.0"
 requires-python = ">=3.11"
 dependencies = [
-    "tkinter"
+    "tkinter",
+    "sqlite3"
 ]
 
 [project.optional-dependencies]
 dev = [
-    "pytest",
     "sqlite3"
 ]
