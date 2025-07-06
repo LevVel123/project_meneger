@@ -1,0 +1,15 @@
+{
+    "project": {
+        "version": "1.0.0 (beta)",
+        "name": "project manager",
+        "os": "windows",
+        "home-link": "https://github.com/LevVel123/biesnes_app"
+    },
+    
+    "author":{
+        "name": "Lev",
+        "company": "ZeroLab: Progarmm Studio",
+        "home-link": "https://github.com/LevVel123",
+        "email": "levdobriy2012@mail.ru"
+    }
+}
